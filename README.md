@@ -102,13 +102,6 @@ cargo test
 cargo clippy -- -D warnings
 ```
 
-## Guion sugerido para el video
-
-1. Mostrar la órbita completa.
-2. Pausar frente al agua y al arco para enseñar refracción y reflexión.
-3. Pasar frente a la lava y la cabaña para enseñar los emisivos.
-4. Cerrar con una toma general del cielo y el terreno procedural.
-
 ## Restricciones
 
 - Raylib es la única dependencia y se usa para ventana, entrada y presentación.
