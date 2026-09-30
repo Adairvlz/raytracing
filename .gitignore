@@ -1,0 +1,23 @@
+/target/
+/renders/
+*.ppm
+
+# Renders locales y validaciones temporales
+/*.bmp
+/docs/validation/
+/docs/nether_validation/
+/docs/*_validation.bmp
+
+# Descargas originales ya convertidas/renombradas
+/assets/textures/a1.png
+/assets/textures/a2.jpg
+/assets/textures/a3.png
+/assets/textures/a4.png
+/assets/textures/a5.png
+/assets/textures/a6.jpg
+/assets/textures/images.jfif
+/assets/textures/images (1).jfif
+/assets/textures/images (2).jfif
+/assets/textures/images (3).jfif
+/assets/textures/leaves.jpg
+/assets/textures/water.jpg
